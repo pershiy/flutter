@@ -4,7 +4,7 @@ void main() {
   runApp(new MaterialApp(
     debugShowCheckedModeBanner: false,
     home: new Scaffold(
-      appBar: new AppBar(title: new Text(""),),
+      appBar: new AppBar(title: new Text("Welcom"),),
       
     ),
     ));
